@@ -49,9 +49,3 @@ This repository documents my learning journey in image processing and computer v
 - Python 🐍
 - OpenCV
 - NumPy
-
----
-
-## 📸 Sample Outputs
-
-Add your screenshots here:
